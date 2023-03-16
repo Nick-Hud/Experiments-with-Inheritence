@@ -1,3 +1,9 @@
+The different commits are the different tasks
+Felt like an easy way to do it and i wanted to play with github
+Enjoy
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
