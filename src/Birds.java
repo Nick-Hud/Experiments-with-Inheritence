@@ -1,13 +1,13 @@
 public class Birds extends Animal{
-    private Float flySpeed;
+    private Integer flySpeed;
     public Birds() {
-        super(age);
+        //super(age);
     }
-    public Float getFlySpeed() {
+    public Integer getFlySpeed() {
         return this.flySpeed;
     }
 
-    public void setFlySpeed(Float newFlySpeed){
+    public void setFlySpeed(Integer newFlySpeed){
         this.flySpeed = newFlySpeed;
     }
 
