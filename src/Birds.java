@@ -14,4 +14,8 @@ public class Birds extends Animal{
     public void describe(){
         System.out.println("Birds fly");
     }
+
+    public void describe(String newInfo){
+        System.out.println(newInfo);
+    }
 }
